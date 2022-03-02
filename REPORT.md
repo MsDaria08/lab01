@@ -70,7 +70,8 @@
   
 5. Подсчитаем количество заголовочных файлов, файлов с расширением .cpp, сколько остальных файлов (не заголовочных и не .cpp)
  
- + `find . -type f -name "*.h" | wc -l + find . -type f -name "*.hpp" | wc -l`
+ + `expr $(find . -type f -name "*.h" | wc -l) + $(find . -type f -name "*.hpp" | wc -l)`  
+              $() - подстановка системных переменных
  + `find . -type f -name "*.cpp" | wc -l`
  +
  
