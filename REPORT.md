@@ -72,14 +72,23 @@
  
  + `expr $(find . -type f -name "*.h" | wc -l) + $(find . -type f -name "*.hpp" | wc -l)`  
               $() - подстановка системных переменных
+              
+              или `$ find . -type f -name "*.cpp" -o -name "*.txt" | wc -l` ?????
+              
  + `find . -type f -name "*.cpp" | wc -l`
  +
  
- 6. Находясь в директории /boost_1_69_0
+ 6. Находясь в директории /boost_1_69_0, используем команду:
  
  `find ~/ -iname "*any.hpp"`
  
- 7.
+ 
+ 7. Находясь в директории /boost_1_69_0, используем команду:
+ 
+ `grep -Rl boost::asio`
+ 
+ 
+ 
  
                       
   
