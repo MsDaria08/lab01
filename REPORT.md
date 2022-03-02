@@ -75,7 +75,12 @@
  + `find . -type f -name "*.cpp" | wc -l`
  +
  
- 6. 
+ 6. Находясь в директории /boost_1_69_0
+ 
+ `find ~/ -iname "*any.hpp"`
+ 
+ 7.
+ 
                       
   
   
