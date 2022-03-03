@@ -56,6 +56,7 @@
   -file=archive=name ( -f archive-name ) — указывает имя файла архива (option)
   ```
     
+    ()[]
   `$ cd ~/boost_1_69_0` - переходим в рабочий каталог /boost_1_69_0
   
   
