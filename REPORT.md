@@ -56,7 +56,8 @@
   -file=archive=name ( -f archive-name ) — указывает имя файла архива (option)
   ```
     
-    ()[]
+    ()[![изображение](https://user-images.githubusercontent.com/91690269/156612916-0721341c-dec1-4aa4-ac3f-28f2211be996.png)
+]
   `$ cd ~/boost_1_69_0` - переходим в рабочий каталог /boost_1_69_0
   
   
