@@ -30,12 +30,12 @@
 
 ### Software
 
-- [curl](https://www.gitbook.com/book/bagder/everything-curl/details)
-- [wget](https://www.gnu.org/software/wget/manual/wget.pdf)
+- [curl](https://www.gitbook.com/book/bagder/everything-curl/details) - набор библиотек, в которых реализуются базовые возможности работы с URL страницами и передачи файлов. `$ curl опции ссылка`
+- [wget](https://www.gnu.org/software/wget/manual/wget.pdf) загрузка файлов, скриптов, загрузочных пакетов... Работает по протоколам HTTP, HTTPS и FTP. `$ wget опции аддресс_ссылки`
 - [clang](https://clang.llvm.org)
-- [g++](https://gcc.gnu.org/onlinedocs/gcc-4.0.2/gcc/G_002b_002b-and-GCC.html)
-- [make](https://en.wikipedia.org/wiki/Make_(software))
-- [open](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/open.1.html)
+- [g++](https://gcc.gnu.org/onlinedocs/gcc-4.0.2/gcc/G_002b_002b-and-GCC.html) команда, предназначена для компиляции с помощью компилятора GCC кода на языке C++ `$ g++ [параметры] имена файлов`
+- [make](https://en.wikipedia.org/wiki/Make_(software)) - утилита предназначенная для автоматизации преобразования файлов из одной формы в другую.
+- [open](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/open.1.html) -позволяет открыть файл
 - [openssl](https://www.openssl.org)
 - [nano](https://www.nano-editor.org)
 - [tree](https://linux.die.net/man/1/tree)
