@@ -2,29 +2,29 @@
 ### Unix commands
 
 - [ar](https://en.wikipedia.org/wiki/Ar_(Unix)) cоздание и управление архивами библиотек
-- [cat](https://en.wikipedia.org/wiki/Cat_(Unix)) объеинение и вывод файлов 
+- [cat](https://en.wikipedia.org/wiki/Cat_(Unix)) объединение и вывод файлов 
 - [cd](https://en.wikipedia.org/wiki/Cd_(command)) смена рабочей директории 
 - [cp](https://en.wikipedia.org/wiki/Cp_(Unix)) копирование файлов
-- [cut](https://en.wikipedia.org/wiki/Cut_(Unix)) 
-- [echo](https://en.wikipedia.org/wiki/Echo_(command))
-- [env](https://en.wikipedia.org/wiki/Env_(shell))
-- [ex](https://en.wikipedia.org/wiki/Ex_(editor))
-- [file](https://en.wikipedia.org/wiki/File_(command))
-- [find](https://en.wikipedia.org/wiki/Find)
+- [cut](https://en.wikipedia.org/wiki/Cut_(Unix)) вырезание части текста
+- [echo](https://en.wikipedia.org/wiki/Echo_(command)) выводит строку текста в терминал
+- [env](https://en.wikipedia.org/wiki/Env_(shell)) используется либо для печати списка переменных среды
+- [ex](https://en.wikipedia.org/wiki/Ex_(editor)) текстовый редактор (режим строчного редактора)
+- [file](https://en.wikipedia.org/wiki/File_(command)) позволяет узнать тип данных, которые содержатся внутри документа
+- [find](https://en.wikipedia.org/wiki/Find) команда для поиска файлов и каталогов
 - [ls](https://en.wikipedia.org/wiki/Ls) выводит список файлов в директории 
-- [man](https://en.wikipedia.org/wiki/Man_page)
-- [mkdir](https://en.wikipedia.org/wiki/Mkdir)
-- [mv](https://en.wikipedia.org/wiki/Mv)
-- [nm](https://en.wikipedia.org/wiki/Nm_(Unix))
+- [man](https://en.wikipedia.org/wiki/Man_page) позволяет получить доступ к общей базе справки по команде, функции или программе
+- [mkdir](https://en.wikipedia.org/wiki/Mkdir) cоздание новых директорий.
+- [mv](https://en.wikipedia.org/wiki/Mv) переместить (или переименовать) файлы или директории
+- [nm](https://en.wikipedia.org/wiki/Nm_(Unix)) печатает информацию о бинарных файлах
 - [ps](https://en.wikipedia.org/wiki/Ps_(Unix))
-- [pwd](https://en.wikipedia.org/wiki/Pwd)
-- [rm](https://en.wikipedia.org/wiki/Rm_(Unix))
-- [sed](https://en.wikipedia.org/wiki/Sed)
-- [touch](https://en.wikipedia.org/wiki/Touch_(Unix))
+- [pwd](https://en.wikipedia.org/wiki/Pwd) позволяет вывести в терминал путь к текущей папке
+- [rm](https://en.wikipedia.org/wiki/Rm_(Unix)) удаление файлов и директорий
+- [sed](https://en.wikipedia.org/wiki/Sed)потоковый редактор текста, работающий по принципу замены, его можно использовать для поиска, вставки, замены и удаления фрагментов в файле
+- [touch](https://en.wikipedia.org/wiki/Touch_(Unix)) // создание пустого файла
 
 ### Package Managers
 
-- [apt](http://help.ubuntu.ru/wiki/apt) | [dnf](https://en.wikipedia.org/wiki/DNF_(software)) | [yum](https://fedoraproject.org/wiki/Yum/ru)
+- [apt](http://help.ubuntu.ru/wiki/apt) | [dnf](https://en.wikipedia.org/wiki/DNF_(software))(Advanced Packaging Tool) | [yum](https://fedoraproject.org/wiki/Yum/ru)
 - [brew](https://brew.sh) | [linuxbrew](http://linuxbrew.sh)
 - [npm](https://docs.npmjs.com)
 
