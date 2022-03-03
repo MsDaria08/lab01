@@ -20,7 +20,7 @@
 - [pwd](https://en.wikipedia.org/wiki/Pwd) позволяет вывести в терминал путь к текущей папке
 - [rm](https://en.wikipedia.org/wiki/Rm_(Unix)) удаление файлов и директорий
 - [sed](https://en.wikipedia.org/wiki/Sed)потоковый редактор текста, работающий по принципу замены, его можно использовать для поиска, вставки, замены и удаления фрагментов в файле
-- [touch](https://en.wikipedia.org/wiki/Touch_(Unix)) // создание пустого файла
+- [touch](https://en.wikipedia.org/wiki/Touch_(Unix)) //создание пустого файла
 
 ### Package Managers
 
@@ -36,10 +36,10 @@
 - [g++](https://gcc.gnu.org/onlinedocs/gcc-4.0.2/gcc/G_002b_002b-and-GCC.html) команда, предназначена для компиляции с помощью компилятора GCC кода на языке C++ `$ g++ [параметры] имена файлов`
 - [make](https://en.wikipedia.org/wiki/Make_(software)) - утилита предназначенная для автоматизации преобразования файлов из одной формы в другую.
 - [open](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/open.1.html) -позволяет открыть файл
-- [openssl](https://www.openssl.org)
-- [nano](https://www.nano-editor.org)
-- [tree](https://linux.die.net/man/1/tree)
-- [vim](http://www.vim.org)
+- [openssl](https://www.openssl.org) - набор инструментов для криптографии
+- [nano](https://www.nano-editor.org) - текстовый редактор
+- [tree](https://linux.die.net/man/1/tree) - это рекурсивная программа для составления списка каталогов. Без аргументов в дереве перечислены файлы в текущем каталоге. Когда задаются аргументы каталога, в дереве по очереди перечисляются все файлы и/или каталоги, найденные в заданных каталогах. По завершении перечисления всех найденных файлов/каталогов tree возвращает общее количество перечисленных файлов и/или каталогов.
+- [vim](http://www.vim.org) - свободный текстовый редактор
 
 
  ## Homework
