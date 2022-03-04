@@ -16,7 +16,7 @@
 - [mkdir](https://en.wikipedia.org/wiki/Mkdir) cоздание новых директорий.
 - [mv](https://en.wikipedia.org/wiki/Mv) переместить (или переименовать) файлы или директории
 - [nm](https://en.wikipedia.org/wiki/Nm_(Unix)) печатает информацию о бинарных файлах
-- [ps](https://en.wikipedia.org/wiki/Ps_(Unix))
+- [ps](https://en.wikipedia.org/wiki/Ps_(Unix)) выводит отчёт о работающих процессах
 - [pwd](https://en.wikipedia.org/wiki/Pwd) позволяет вывести в терминал путь к текущей папке
 - [rm](https://en.wikipedia.org/wiki/Rm_(Unix)) удаление файлов и директорий
 - [sed](https://en.wikipedia.org/wiki/Sed)потоковый редактор текста, работающий по принципу замены, его можно использовать для поиска, вставки, замены и удаления фрагментов в файле
